@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "48cea974-918b-4a33-8f1f-c374efd5f6b3"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.niclaca.dosecerta",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}
